@@ -200,7 +200,7 @@ p {
 }
 
 #hero {
-	background-image: url(./img/background1.png);
+	background-image: url(https://raw.githubusercontent.com/kclane123/images/refs/heads/main/background1.png);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -288,7 +288,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(./img/IT.jpg);
+	background-image: url(https://raw.githubusercontent.com/kclane123/images/refs/heads/main/IT.jpg);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
